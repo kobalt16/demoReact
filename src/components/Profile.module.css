@@ -1,0 +1,15 @@
+.main {
+    grid-area: m;
+    background-color:burlywood;
+}
+.profileImg {
+    height: 150px;
+    width: 100%;
+}
+.profileImage {
+    height: 150px;
+}
+
+.item {
+    color: blue;
+}
